@@ -3,3 +3,4 @@ My resolution
 *membuat website atau platform mengenai perkembangan saya belajar dan project saya
 *menyelesaikan tutorial laravel 8
 *wisuda
+*mengikuti virtual internship rakamin
