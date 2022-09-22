@@ -1,3 +1,4 @@
 My resolution
 *Menyelesaikan dan mendapatkan setidaknya satu sertifikat pada situs freeCodeCamp mengenai website
 *membuat website atau platform mengenai perkembangan saya belajar dan project saya
+*menyelesaikan tutorial laravel 8
